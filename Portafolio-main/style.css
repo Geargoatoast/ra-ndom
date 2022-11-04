@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(245, 245, 245);
+}
+
+.header {
+ background-color: rgb(255, 0, 0);   
+ display:flex;
+ justify-content:space-between;
+}
+
+body{
+    background-color: #dbff33   ; 
+}
